@@ -1,0 +1,22 @@
+{
+  "name": "learning-webpack",
+  "version": "1.0.0",
+  "description": "A project for learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassie-cy/learning-webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "cassie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassie-cy/learning-webpack/issues"
+  },
+  "homepage": "https://github.com/cassie-cy/learning-webpack#readme"
+}
